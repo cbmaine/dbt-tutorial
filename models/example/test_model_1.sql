@@ -1,7 +1,4 @@
 
-/*
-    My own test model
-*/
 
 {{ config(materialized='table') }}
 
